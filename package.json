@@ -1,6 +1,6 @@
 {
-	"author":"Cihan Gönen",
 	"name": "fcc-learn-npm-package-json",
+	"author":"Cihan Gönen",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
